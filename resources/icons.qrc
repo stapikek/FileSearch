@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="favicon.ico">../assets/favicon.ico</file>
+        <file alias="arrow-down.svg">icons/arrow-down.svg</file>
+        <file alias="arrow-up.svg">icons/arrow-up.svg</file>
+        <file alias="grip.svg">icons/grip.svg</file>
+    </qresource>
+</RCC>
